@@ -1,0 +1,343 @@
+﻿  Snakes fight.cpp
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(194,53): error C2665: “outtextxy”: 2 个重载中没有一个可以转换所有参数类型
+D:\study\VS-install\IDE\VC\Auxiliary\VS\include\easyx.h(224,6): message : 可能是“void outtextxy(int,int,TCHAR)”
+D:\study\VS-install\IDE\VC\Auxiliary\VS\include\easyx.h(223,6): message : 或    “void outtextxy(int,int,LPCTSTR)”
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(194,53): message : 尝试匹配参数列表“(double, double, const char [9])”时
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(195,53): error C2665: “outtextxy”: 2 个重载中没有一个可以转换所有参数类型
+D:\study\VS-install\IDE\VC\Auxiliary\VS\include\easyx.h(224,6): message : 可能是“void outtextxy(int,int,TCHAR)”
+D:\study\VS-install\IDE\VC\Auxiliary\VS\include\easyx.h(223,6): message : 或    “void outtextxy(int,int,LPCTSTR)”
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(195,53): message : 尝试匹配参数列表“(double, double, const char [9])”时
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(196,48): error C2665: “outtextxy”: 2 个重载中没有一个可以转换所有参数类型
+D:\study\VS-install\IDE\VC\Auxiliary\VS\include\easyx.h(224,6): message : 可能是“void outtextxy(int,int,TCHAR)”
+D:\study\VS-install\IDE\VC\Auxiliary\VS\include\easyx.h(223,6): message : 或    “void outtextxy(int,int,LPCTSTR)”
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(196,48): message : 尝试匹配参数列表“(double, double, const char [5])”时
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(200,66): error C2665: “outtextxy”: 2 个重载中没有一个可以转换所有参数类型
+D:\study\VS-install\IDE\VC\Auxiliary\VS\include\easyx.h(224,6): message : 可能是“void outtextxy(int,int,TCHAR)”
+D:\study\VS-install\IDE\VC\Auxiliary\VS\include\easyx.h(223,6): message : 或    “void outtextxy(int,int,LPCTSTR)”
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(200,66): message : 尝试匹配参数列表“(double, double, const char [17])”时
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(204,63): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(204,48): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(204,33): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(204,18): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(206,63): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(206,48): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(206,33): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(206,18): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(208,63): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(208,48): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(208,33): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(208,18): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(241,63): error C2665: “outtextxy”: 2 个重载中没有一个可以转换所有参数类型
+D:\study\VS-install\IDE\VC\Auxiliary\VS\include\easyx.h(224,6): message : 可能是“void outtextxy(int,int,TCHAR)”
+D:\study\VS-install\IDE\VC\Auxiliary\VS\include\easyx.h(223,6): message : 或    “void outtextxy(int,int,LPCTSTR)”
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(241,63): message : 尝试匹配参数列表“(double, double, const char [16])”时
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(242,71): error C2665: “outtextxy”: 2 个重载中没有一个可以转换所有参数类型
+D:\study\VS-install\IDE\VC\Auxiliary\VS\include\easyx.h(224,6): message : 可能是“void outtextxy(int,int,TCHAR)”
+D:\study\VS-install\IDE\VC\Auxiliary\VS\include\easyx.h(223,6): message : 或    “void outtextxy(int,int,LPCTSTR)”
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(242,71): message : 尝试匹配参数列表“(double, double, const char [22])”时
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(243,121): error C2665: “outtextxy”: 2 个重载中没有一个可以转换所有参数类型
+D:\study\VS-install\IDE\VC\Auxiliary\VS\include\easyx.h(224,6): message : 可能是“void outtextxy(int,int,TCHAR)”
+D:\study\VS-install\IDE\VC\Auxiliary\VS\include\easyx.h(223,6): message : 或    “void outtextxy(int,int,LPCTSTR)”
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(243,121): message : 尝试匹配参数列表“(double, double, const char [55])”时
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(244,71): error C2665: “outtextxy”: 2 个重载中没有一个可以转换所有参数类型
+D:\study\VS-install\IDE\VC\Auxiliary\VS\include\easyx.h(224,6): message : 可能是“void outtextxy(int,int,TCHAR)”
+D:\study\VS-install\IDE\VC\Auxiliary\VS\include\easyx.h(223,6): message : 或    “void outtextxy(int,int,LPCTSTR)”
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(244,71): message : 尝试匹配参数列表“(double, double, const char [22])”时
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(245,121): error C2665: “outtextxy”: 2 个重载中没有一个可以转换所有参数类型
+D:\study\VS-install\IDE\VC\Auxiliary\VS\include\easyx.h(224,6): message : 可能是“void outtextxy(int,int,TCHAR)”
+D:\study\VS-install\IDE\VC\Auxiliary\VS\include\easyx.h(223,6): message : 或    “void outtextxy(int,int,LPCTSTR)”
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(245,121): message : 尝试匹配参数列表“(double, double, const char [55])”时
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(246,85): error C2665: “outtextxy”: 2 个重载中没有一个可以转换所有参数类型
+D:\study\VS-install\IDE\VC\Auxiliary\VS\include\easyx.h(224,6): message : 可能是“void outtextxy(int,int,TCHAR)”
+D:\study\VS-install\IDE\VC\Auxiliary\VS\include\easyx.h(223,6): message : 或    “void outtextxy(int,int,LPCTSTR)”
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(246,85): message : 尝试匹配参数列表“(double, double, const char [31])”时
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(251,48): error C2665: “outtextxy”: 2 个重载中没有一个可以转换所有参数类型
+D:\study\VS-install\IDE\VC\Auxiliary\VS\include\easyx.h(224,6): message : 可能是“void outtextxy(int,int,TCHAR)”
+D:\study\VS-install\IDE\VC\Auxiliary\VS\include\easyx.h(223,6): message : 或    “void outtextxy(int,int,LPCTSTR)”
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(251,48): message : 尝试匹配参数列表“(double, double, const char [5])”时
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(254,62): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(254,47): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(254,33): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(254,18): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(316,34): error C2664: “int sprintf_s(char *const ,const size_t,const char *const ,...)”: 无法将参数 1 从“TCHAR [10]”转换为“char *const ”
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(316,12): message : 与指向的类型无关；强制转换要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
+D:\Windows Kits\10\Include\10.0.19041.0\ucrt\stdio.h(1815,41): message : 参见“sprintf_s”的声明
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(318,34): error C2665: “outtextxy”: 2 个重载中没有一个可以转换所有参数类型
+D:\study\VS-install\IDE\VC\Auxiliary\VS\include\easyx.h(224,6): message : 可能是“void outtextxy(int,int,TCHAR)”
+D:\study\VS-install\IDE\VC\Auxiliary\VS\include\easyx.h(223,6): message : 或    “void outtextxy(int,int,LPCTSTR)”
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(318,34): message : 尝试匹配参数列表“(int, int, const char [2])”时
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(319,55): error C2664: “int sprintf_s(char *const ,const size_t,const char *const ,...)”: 无法将参数 1 从“TCHAR [10]”转换为“char *const ”
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(319,12): message : 与指向的类型无关；强制转换要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
+D:\Windows Kits\10\Include\10.0.19041.0\ucrt\stdio.h(1815,41): message : 参见“sprintf_s”的声明
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(321,85): error C2664: “int sprintf_s(char *const ,const size_t,const char *const ,...)”: 无法将参数 1 从“TCHAR [10]”转换为“char *const ”
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(321,12): message : 与指向的类型无关；强制转换要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
+D:\Windows Kits\10\Include\10.0.19041.0\ucrt\stdio.h(1815,41): message : 参见“sprintf_s”的声明
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(342,55): error C2665: “outtextxy”: 2 个重载中没有一个可以转换所有参数类型
+D:\study\VS-install\IDE\VC\Auxiliary\VS\include\easyx.h(224,6): message : 可能是“void outtextxy(int,int,TCHAR)”
+D:\study\VS-install\IDE\VC\Auxiliary\VS\include\easyx.h(223,6): message : 或    “void outtextxy(int,int,LPCTSTR)”
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(342,55): message : 尝试匹配参数列表“(double, double, const char [9])”时
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(343,53): error C2665: “outtextxy”: 2 个重载中没有一个可以转换所有参数类型
+D:\study\VS-install\IDE\VC\Auxiliary\VS\include\easyx.h(224,6): message : 可能是“void outtextxy(int,int,TCHAR)”
+D:\study\VS-install\IDE\VC\Auxiliary\VS\include\easyx.h(223,6): message : 或    “void outtextxy(int,int,LPCTSTR)”
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(343,53): message : 尝试匹配参数列表“(double, double, const char [9])”时
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(344,54): error C2665: “outtextxy”: 2 个重载中没有一个可以转换所有参数类型
+D:\study\VS-install\IDE\VC\Auxiliary\VS\include\easyx.h(224,6): message : 可能是“void outtextxy(int,int,TCHAR)”
+D:\study\VS-install\IDE\VC\Auxiliary\VS\include\easyx.h(223,6): message : 或    “void outtextxy(int,int,LPCTSTR)”
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(344,54): message : 尝试匹配参数列表“(double, double, const char [9])”时
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(347,62): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(347,47): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(347,33): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(347,18): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(349,62): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(349,47): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(349,33): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(349,18): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(437,65): error C2664: “MCIERROR mciSendStringW(LPCWSTR,LPWSTR,UINT,HWND)”: 无法将参数 1 从“const char [30]”转换为“LPCWSTR”
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(437,16): message : 与指向的类型无关；强制转换要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
+D:\Windows Kits\10\Include\10.0.19041.0\um\mciapi.h(88,1): message : 参见“mciSendStringW”的声明
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(438,52): error C2664: “MCIERROR mciSendStringW(LPCWSTR,LPWSTR,UINT,HWND)”: 无法将参数 1 从“const char [20]”转换为“LPCWSTR”
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(438,16): message : 与指向的类型无关；强制转换要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
+D:\Windows Kits\10\Include\10.0.19041.0\um\mciapi.h(88,1): message : 参见“mciSendStringW”的声明
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(475,22): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(479,30): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(483,20): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(484,20): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(485,20): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(486,20): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(523,29): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(526,36): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(529,31): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(530,31): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(531,31): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(532,31): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(556,29): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(562,36): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(567,31): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(568,31): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(573,31): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(574,31): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(582,38): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(585,38): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(588,38): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(604,54): error C2665: “outtextxy”: 2 个重载中没有一个可以转换所有参数类型
+D:\study\VS-install\IDE\VC\Auxiliary\VS\include\easyx.h(224,6): message : 可能是“void outtextxy(int,int,TCHAR)”
+D:\study\VS-install\IDE\VC\Auxiliary\VS\include\easyx.h(223,6): message : 或    “void outtextxy(int,int,LPCTSTR)”
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(604,54): message : 尝试匹配参数列表“(double, double, const char [9])”时
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(608,52): error C2665: “outtextxy”: 2 个重载中没有一个可以转换所有参数类型
+D:\study\VS-install\IDE\VC\Auxiliary\VS\include\easyx.h(224,6): message : 可能是“void outtextxy(int,int,TCHAR)”
+D:\study\VS-install\IDE\VC\Auxiliary\VS\include\easyx.h(223,6): message : 或    “void outtextxy(int,int,LPCTSTR)”
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(608,52): message : 尝试匹配参数列表“(double, double, const char [7])”时
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(611,33): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(611,18): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(615,49): error C2665: “outtextxy”: 2 个重载中没有一个可以转换所有参数类型
+D:\study\VS-install\IDE\VC\Auxiliary\VS\include\easyx.h(224,6): message : 可能是“void outtextxy(int,int,TCHAR)”
+D:\study\VS-install\IDE\VC\Auxiliary\VS\include\easyx.h(223,6): message : 或    “void outtextxy(int,int,LPCTSTR)”
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(615,49): message : 尝试匹配参数列表“(double, double, const char [5])”时
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(618,62): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(618,47): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(618,33): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(618,18): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(672,20): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(673,20): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(674,20): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(675,20): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(688,20): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(689,20): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(690,20): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(691,20): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(704,20): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(705,20): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(706,20): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(707,20): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(720,20): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(721,20): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(722,20): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(723,20): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(738,38): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(739,38): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(740,38): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(741,38): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(756,38): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(757,38): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(758,38): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(759,38): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(774,38): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(775,38): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(776,38): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(777,38): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(792,38): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(793,38): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(794,38): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(795,38): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(812,39): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(815,23): warning C4305: “+=”: 从“double”到“float”截断
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(817,23): warning C4305: “+=”: 从“double”到“float”截断
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(826,39): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(829,23): warning C4305: “+=”: 从“double”到“float”截断
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(831,23): warning C4305: “+=”: 从“double”到“float”截断
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(840,39): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(843,23): warning C4305: “+=”: 从“double”到“float”截断
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(845,23): warning C4305: “+=”: 从“double”到“float”截断
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(973,74): error C2664: “MCIERROR mciSendStringW(LPCWSTR,LPWSTR,UINT,HWND)”: 无法将参数 1 从“const char [36]”转换为“LPCWSTR”
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(973,16): message : 与指向的类型无关；强制转换要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
+D:\Windows Kits\10\Include\10.0.19041.0\um\mciapi.h(88,1): message : 参见“mciSendStringW”的声明
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(974,52): error C2664: “MCIERROR mciSendStringW(LPCWSTR,LPWSTR,UINT,HWND)”: 无法将参数 1 从“const char [20]”转换为“LPCWSTR”
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(974,16): message : 与指向的类型无关；强制转换要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
+D:\Windows Kits\10\Include\10.0.19041.0\um\mciapi.h(88,1): message : 参见“mciSendStringW”的声明
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(979,49): error C2665: “loadimage”: 2 个重载中没有一个可以转换所有参数类型
+D:\study\VS-install\IDE\VC\Auxiliary\VS\include\easyx.h(256,6): message : 可能是“void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(979,49): message : 尝试匹配参数列表“(IMAGE *, const char [20])”时
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(1020,22): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(1021,22): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(1022,22): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(1023,22): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(1025,22): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(1026,22): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(1027,22): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(1028,22): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(1049,24): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(1053,32): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(1060,24): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(1064,32): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(1094,31): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(1095,31): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(1098,33): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(1099,33): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(1100,33): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(1101,33): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(1103,33): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(1104,33): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(1105,33): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(1106,33): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(1111,38): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(1115,38): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(1147,38): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(1154,38): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(1160,31): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(1164,31): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(1169,33): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(1170,33): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(1171,33): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(1172,33): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(1177,33): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(1178,33): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(1179,33): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(1180,33): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(1188,38): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(1191,38): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(1194,38): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(1210,54): error C2665: “outtextxy”: 2 个重载中没有一个可以转换所有参数类型
+D:\study\VS-install\IDE\VC\Auxiliary\VS\include\easyx.h(224,6): message : 可能是“void outtextxy(int,int,TCHAR)”
+D:\study\VS-install\IDE\VC\Auxiliary\VS\include\easyx.h(223,6): message : 或    “void outtextxy(int,int,LPCTSTR)”
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(1210,54): message : 尝试匹配参数列表“(double, double, const char [9])”时
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(1216,59): error C2665: “outtextxy”: 2 个重载中没有一个可以转换所有参数类型
+D:\study\VS-install\IDE\VC\Auxiliary\VS\include\easyx.h(224,6): message : 可能是“void outtextxy(int,int,TCHAR)”
+D:\study\VS-install\IDE\VC\Auxiliary\VS\include\easyx.h(223,6): message : 或    “void outtextxy(int,int,LPCTSTR)”
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(1216,59): message : 尝试匹配参数列表“(double, double, const char [12])”时
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(1218,32): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(1218,18): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(1219,59): error C2665: “outtextxy”: 2 个重载中没有一个可以转换所有参数类型
+D:\study\VS-install\IDE\VC\Auxiliary\VS\include\easyx.h(224,6): message : 可能是“void outtextxy(int,int,TCHAR)”
+D:\study\VS-install\IDE\VC\Auxiliary\VS\include\easyx.h(223,6): message : 或    “void outtextxy(int,int,LPCTSTR)”
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(1219,59): message : 尝试匹配参数列表“(double, double, const char [12])”时
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(1221,32): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(1221,18): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(1226,15): warning C4553: “==”: 未使用表达式结果；是否打算使用“=”?
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(1228,15): warning C4553: “==”: 未使用表达式结果；是否打算使用“=”?
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(1230,15): warning C4553: “==”: 未使用表达式结果；是否打算使用“=”?
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(1236,65): error C2665: “outtextxy”: 2 个重载中没有一个可以转换所有参数类型
+D:\study\VS-install\IDE\VC\Auxiliary\VS\include\easyx.h(224,6): message : 可能是“void outtextxy(int,int,TCHAR)”
+D:\study\VS-install\IDE\VC\Auxiliary\VS\include\easyx.h(223,6): message : 或    “void outtextxy(int,int,LPCTSTR)”
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(1236,65): message : 尝试匹配参数列表“(double, double, const char [15])”时
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(1242,65): error C2665: “outtextxy”: 2 个重载中没有一个可以转换所有参数类型
+D:\study\VS-install\IDE\VC\Auxiliary\VS\include\easyx.h(224,6): message : 可能是“void outtextxy(int,int,TCHAR)”
+D:\study\VS-install\IDE\VC\Auxiliary\VS\include\easyx.h(223,6): message : 或    “void outtextxy(int,int,LPCTSTR)”
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(1242,65): message : 尝试匹配参数列表“(double, double, const char [15])”时
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(1248,53): error C2665: “outtextxy”: 2 个重载中没有一个可以转换所有参数类型
+D:\study\VS-install\IDE\VC\Auxiliary\VS\include\easyx.h(224,6): message : 可能是“void outtextxy(int,int,TCHAR)”
+D:\study\VS-install\IDE\VC\Auxiliary\VS\include\easyx.h(223,6): message : 或    “void outtextxy(int,int,LPCTSTR)”
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(1248,53): message : 尝试匹配参数列表“(double, double, const char [7])”时
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(1253,49): error C2665: “outtextxy”: 2 个重载中没有一个可以转换所有参数类型
+D:\study\VS-install\IDE\VC\Auxiliary\VS\include\easyx.h(224,6): message : 可能是“void outtextxy(int,int,TCHAR)”
+D:\study\VS-install\IDE\VC\Auxiliary\VS\include\easyx.h(223,6): message : 或    “void outtextxy(int,int,LPCTSTR)”
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(1253,49): message : 尝试匹配参数列表“(double, double, const char [5])”时
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(1256,62): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(1256,47): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(1256,33): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(1256,18): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(1288,11): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(1300,11): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(1345,22): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(1346,22): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(1347,22): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(1348,22): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(1362,22): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(1363,22): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(1364,22): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(1365,22): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(1378,22): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(1379,22): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(1380,22): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(1381,22): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(1394,22): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(1395,22): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(1396,22): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(1397,22): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(1413,22): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(1414,22): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(1431,22): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(1432,22): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(1449,22): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(1450,22): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(1467,22): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(1468,22): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(1483,22): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(1484,22): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(1485,22): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(1486,22): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(1500,22): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(1501,22): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(1502,22): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(1503,22): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(1516,22): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(1517,22): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(1518,22): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(1519,22): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(1532,22): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(1533,22): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(1534,22): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(1535,22): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(1551,22): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(1552,22): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(1569,22): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(1570,22): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(1587,22): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(1588,22): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(1605,22): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(1606,22): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(1619,39): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(1623,23): warning C4305: “+=”: 从“double”到“float”截断
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(1624,24): warning C4305: “+=”: 从“double”到“float”截断
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(1625,24): warning C4305: “+=”: 从“double”到“float”截断
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(1633,39): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(1637,23): warning C4305: “+=”: 从“double”到“float”截断
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(1638,24): warning C4305: “+=”: 从“double”到“float”截断
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(1639,24): warning C4305: “+=”: 从“double”到“float”截断
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(1647,39): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(1651,23): warning C4305: “+=”: 从“double”到“float”截断
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(1652,24): warning C4305: “+=”: 从“double”到“float”截断
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(1653,24): warning C4305: “+=”: 从“double”到“float”截断
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(1655,22): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(1662,39): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(1666,23): warning C4305: “+=”: 从“double”到“float”截断
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(1667,24): warning C4305: “+=”: 从“double”到“float”截断
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(1668,24): warning C4305: “+=”: 从“double”到“float”截断
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(1676,39): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(1680,23): warning C4305: “+=”: 从“double”到“float”截断
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(1681,24): warning C4305: “+=”: 从“double”到“float”截断
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(1682,24): warning C4305: “+=”: 从“double”到“float”截断
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(1690,39): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(1694,23): warning C4305: “+=”: 从“double”到“float”截断
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(1695,24): warning C4305: “+=”: 从“double”到“float”截断
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(1696,24): warning C4305: “+=”: 从“double”到“float”截断
+D:\U盘备份\xuexi\CXSJ\Snakes fight\Snakes fight\Snakes fight\Snakes fight.cpp(1698,22): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
